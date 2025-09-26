@@ -1,0 +1,1 @@
+<?php /**PATH /home/schrodinger/Desktop/Ai Edu/lav_sms/resources/views/pages/admin/menu.blade.php ENDPATH**/ ?>
