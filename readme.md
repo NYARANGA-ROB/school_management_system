@@ -88,6 +88,7 @@ After seeding. Login details as follows:
 - Manage own profile
 - Upload Study Materials
 
+
 **-- STUDENT**
 - View teacher profile
 - View own class subjects
