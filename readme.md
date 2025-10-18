@@ -106,6 +106,7 @@ After seeding. Login details as follows:
 - View noticeboard and school events in calendar
 - Manage own profile
 
+
 ### **Contributing**
 
 Your Contributions & suggestions are welcomed. Please use Pull Request
